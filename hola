@@ -6,7 +6,9 @@
   </head>
   <body>
       <?php
-        echo "hola mundo de hijos de puta";
+        echo "hola el mundo esta lleno de hijos de puta";
+        <br>
+        echo " es increible la terquedad de la gente mediocre";
         ?>
       
       
